@@ -4,6 +4,7 @@ public class characters {
 String nome;
 int vita;
 
+
 public characters(String nome, int vita) {
     this.nome = nome;
     this.vita = vita;
